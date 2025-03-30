@@ -1,0 +1,18 @@
+estudos-resumos/
+├── README.md
+├── ROADMAP.md
+├── fundamentos/
+│   ├── conceitos-basicos.md
+│   └── glossario.md
+├── inteligencia-estrategica/
+│   ├── ciclo-inteligencia.md
+│   └── metodologias-analiticas.md
+├── inteligencia-tatica/
+│   ├── tecnicas-analise-criminal.md
+│   └── analise-vinculos.md
+├── inteligencia-operacional/
+│   ├── previsao-ameacas.md
+│   └── monitoramento-operacional.md
+└── recursos-extras/
+    ├── ferramentas.md
+    └── referencias-legais.md
