@@ -1,0 +1,33 @@
+MPF-Concursos-Estudo/
+├── README.md
+├── ROADMAP.md
+├── Direito-Constitucional/
+│   ├── principios-fundamentais.md
+│   ├── controle-de-constitucionalidade.md
+│   └── direitos-e-garantias-fundamentais.md
+├── Direito-Administrativo/
+│   ├── principios-administracao-publica.md
+│   ├── atos-administrativos.md
+│   ├── improbidade-administrativa.md
+│   └── licitacoes-e-contratos.md
+├── Direito-Penal-e-Processual-Penal/
+│   ├── teoria-do-crime.md
+│   ├── crimes-contra-administracao-publica.md
+│   ├── processo-penal.md
+│   └── investigacao-criminal-mpf.md
+├── Direito-Civil-e-Processual-Civil/
+│   ├── responsabilidade-civil-estado.md
+│   ├── direitos-difusos-e-coletivos.md
+│   └── tutela-processual-coletiva.md
+├── Direito-Ambiental/
+│   ├── politica-nacional-meio-ambiente.md
+│   └── responsabilidade-ambiental.md
+├── Direito-Eleitoral/
+│   ├── organizacao-justica-eleitoral.md
+│   └── crimes-eleitorais.md
+├── Direito-Economico-e-Concorrencial/
+│   ├── defesa-da-concorrencia.md
+│   └── regulacao-economica.md
+└── Legislação-Institucional/
+    ├── lei-organica-mpu.md
+    └── regimento-interno-mpf.md
